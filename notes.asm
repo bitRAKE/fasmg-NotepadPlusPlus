@@ -127,7 +127,6 @@ from as dup
 ;   + some fasmg keywords are modal: match (calm is different)
 ;   + some fasmg operators are the same as x86 instructions
 ;
-; - favor x86 instruction highlighting over fasmg operator
 ; - no highlighing for binary :/
 
 
